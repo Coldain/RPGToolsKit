@@ -153,7 +153,7 @@ class Characters extends Component {
         iconElementRight={
           <FlatButton
             style={{ marginTop: 4 }}
-            href='https://github.com/TarikHuber/react-most-wanted'
+            href='https://github.com/Coldain/RPGToolsKit'
             target='_blank'
             rel='noopener'
             secondary
